@@ -6,7 +6,10 @@ github: true
 description: personal information on David Gwynn
 opengraph: {}
 title: David Gwynn personal site
-author: {}
+author:
+  name: David Gwynn
+  url: www.davidwgwynn.com
+  email: gwynnd@comcast.net
 color:
   lightness: 0.10358924747062596
   brandColors:
