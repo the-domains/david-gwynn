@@ -4,9 +4,16 @@
         <description><![CDATA[David Gwynn personal site]]></description>
         <link>https://thegrid.ai/www.davidwgwynn.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Jan 2018 08:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2018 08:20:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/www.davidwgwynn.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jan 2018 08:20:21 GMT</pubDate>
+        <pubDate>Sun, 21 Jan 2018 08:20:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[It's total eclipse time!,<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/20914555_1786624941351015_6781632523359259844_n.jpg?oh=ad499c3a1e00a7aa3eed0d8e882f2074&oe=5AEB240D"></article>]]></description>
+            <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/20914555_1786624941351015_6781632523359259844_n.jpg?oh=ad499c3a1e00a7aa3eed0d8e882f2074&amp;oe=5AEB240D</link>
+            <guid isPermaLink="false">ce6ee2e1-8597-4f73-9723-b5452609b681</guid>
+            <pubDate>Sun, 21 Jan 2018 08:20:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Go Ducks]]></title>
             <description><![CDATA[<h1>Go Ducks</h1>,<h2>Sometimes you. Sometimes me. Always us.
@@ -75,17 +82,6 @@ It’s...#UOMovieBattle 🎥</h2>,<article><img src="https://scontent.xx.fbcdn.n
             <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/20993908_1786887811324728_2148237508233060405_n.jpg?oh=d22340942b7b2fb31e3b8bb292add877&amp;oe=5AEBFC9C</link>
             <guid isPermaLink="false">72e00bde-9de8-4308-8833-54737f615944</guid>
             <pubDate>Sun, 21 Jan 2018 08:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Oregonian]]></title>
-            <description><![CDATA[<h1>The Oregonian</h1>,<h2>Want to see the world's largest rubber duck?  Well, you are in luck!
-
-Mama Duck will be visiting Coos Bay, Oregon on June 1-4 for the Festival of Sail!
-
-More details about the festival here: http://www.oregonlive.com/travel/index.ssf/2017/05/tall_ship_festival_sailing_bac.html</h2>,<article><img src="https://scontent.xx.fbcdn.net/v/t15.0-10/s720x720/18724148_10154758841031973_7978740108461342720_n.jpg?oh=cf08e0822397406791bf157a711f9850&oe=5AE63C3A"></article>]]></description>
-            <link>https://thegrid.ai/www.davidwgwynn.com/the-oregonian/index.html</link>
-            <guid isPermaLink="false">544da66b-e000-4a8e-91db-012d4715dd2b</guid>
-            <pubDate>Sun, 21 Jan 2018 08:19:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
