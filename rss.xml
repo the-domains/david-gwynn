@@ -4,9 +4,16 @@
         <description><![CDATA[David Gwynn personal site]]></description>
         <link>https://thegrid.ai/www.davidwgwynn.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Jan 2018 08:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2018 08:20:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/www.davidwgwynn.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jan 2018 08:20:16 GMT</pubDate>
+        <pubDate>Sun, 21 Jan 2018 08:20:18 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[Let's start the afternooon! #TedXPDX,<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17862726_1639770732703104_1141797069849472927_n.jpg?oh=045ddc727aeacf7b7440c4d578593c8e&oe=5AB3CCA6"></article>]]></description>
+            <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17862726_1639770732703104_1141797069849472927_n.jpg?oh=045ddc727aeacf7b7440c4d578593c8e&amp;oe=5AB3CCA6</link>
+            <guid isPermaLink="false">67c9bd7c-5e0b-4bf6-8807-340dedc01573</guid>
+            <pubDate>Sun, 21 Jan 2018 08:20:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Oregonian]]></title>
             <description><![CDATA[<h1>The Oregonian</h1>,<h2>16 cool Oregon hikes, perfect for a hot day: http://bit.ly/2tZrLMg
@@ -77,13 +84,6 @@ More details about the festival here: http://www.oregonlive.com/travel/index.ssf
             <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17862726_1639770732703104_1141797069849472927_n.jpg?oh=045ddc727aeacf7b7440c4d578593c8e&amp;oe=5AB3CCA6</link>
             <guid isPermaLink="false">b1f6b77c-fa5a-420c-92ed-caccaf61cb79</guid>
             <pubDate>Sun, 21 Jan 2018 08:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David's cover photo]]></title>
-            <description><![CDATA[<h1>David's cover photo</h1>,<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18664544_1683283218351855_1773153085975267157_n.jpg?oh=b7058261d598958bfcf4e8741f6760c6&oe=5ADF2B6D"></article>]]></description>
-            <link>https://thegrid.ai/www.davidwgwynn.com/davids-cover-photo/index.html</link>
-            <guid isPermaLink="false">554f99cd-d8f9-41ab-9776-ebbf1bedd397</guid>
-            <pubDate>Sun, 21 Jan 2018 08:19:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
