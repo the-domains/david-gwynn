@@ -5,15 +5,15 @@ description: >-
   Summit have opened up the door to students, faculty, alumni and community
   members representing a range of disciplines - from the arts and humanities to
   the sciences, media, law, business, education and beyond.
-dateModified: '2018-01-14T07:20:08.091Z'
-datePublished: '2018-01-21T08:18:53.847Z'
+dateModified: '2018-01-20T07:16:01.069Z'
+datePublished: '2018-01-21T08:19:26.781Z'
 title: First Innovation Summit throws open the doors to new ideas
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: true
-datePublishedOriginal: '2018-01-21T08:18:53.847Z'
+datePublishedOriginal: '2018-01-21T08:19:26.781Z'
 sourcePath: >-
   _posts/2018-01-21-first-innovation-summit-throws-open-the-doors-to-new-ideas.md
 url: first-innovation-summit-throws-open-the-doors-to-new-ideas/index.html
