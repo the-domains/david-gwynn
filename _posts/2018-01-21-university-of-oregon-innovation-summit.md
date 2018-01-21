@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-01-20T07:15:53.270Z'
-datePublished: '2018-01-21T08:19:28.804Z'
+dateModified: '2018-01-14T07:24:57.063Z'
+datePublished: '2018-01-21T08:19:56.413Z'
 title: University of Oregon Innovation Summit
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: true
-datePublishedOriginal: '2018-01-21T08:19:28.804Z'
+datePublishedOriginal: '2018-01-21T08:19:56.413Z'
 sourcePath: _posts/2018-01-21-university-of-oregon-innovation-summit.md
 url: university-of-oregon-innovation-summit/index.html
 _type: Article
