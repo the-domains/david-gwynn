@@ -4,9 +4,18 @@
         <description><![CDATA[David Gwynn personal site]]></description>
         <link>https://thegrid.ai/www.davidwgwynn.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Jan 2018 08:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2018 08:20:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/www.davidwgwynn.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jan 2018 08:20:01 GMT</pubDate>
+        <pubDate>Sun, 21 Jan 2018 08:20:16 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Oregonian]]></title>
+            <description><![CDATA[<h1>The Oregonian</h1>,<h2>16 cool Oregon hikes, perfect for a hot day: http://bit.ly/2tZrLMg
+
+Because #PNW summers are unbeatable.</h2>,<article><img src="https://scontent.xx.fbcdn.net/v/t15.0-10/s720x720/20480607_10154988414506973_1726373559304978432_n.jpg?oh=2be92862ad26c8895b0bac68337a4289&oe=5AF7260E"></article>]]></description>
+            <link>https://thegrid.ai/www.davidwgwynn.com/the-oregonian/index.html</link>
+            <guid isPermaLink="false">9d09f016-8e44-4b62-a81b-0e3f39a687d2</guid>
+            <pubDate>Sun, 21 Jan 2018 08:20:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[David Gwynn was at The Tower Theatre.]]></title>
             <description><![CDATA[<h1>David Gwynn was at The Tower Theatre.</h1>,<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-1/p720x720/24232539_10154816877652827_5660050652305038873_n.jpg?oh=e38ad68c1039a1e699a9ed57adcae85e&oe=5AE95E56"></article>]]></description>
@@ -75,15 +84,6 @@ More details about the festival here: http://www.oregonlive.com/travel/index.ssf
             <link>https://thegrid.ai/www.davidwgwynn.com/davids-cover-photo/index.html</link>
             <guid isPermaLink="false">554f99cd-d8f9-41ab-9776-ebbf1bedd397</guid>
             <pubDate>Sun, 21 Jan 2018 08:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[University of Oregon Innovation Summit]]></title>
-            <description><![CDATA[<h1>University of Oregon Innovation Summit</h1>,<h2>Get ready for the largest, most lit, movie debate to hit the University of Oregon campus.
-
-It’s...#UOMovieBattle 🎥</h2>,<article><img src="https://scontent.xx.fbcdn.net/v/t15.0-10/s720x720/22684353_242589849602329_4686629014444441600_n.jpg?oh=e1238ef66389bc60be8eb7d8a27da42c&oe=5AEBAD2F"></article>]]></description>
-            <link>https://thegrid.ai/www.davidwgwynn.com/university-of-oregon-innovation-summit/index.html</link>
-            <guid isPermaLink="false">e688c855-e45d-47cb-bfea-0e68d573f0c8</guid>
-            <pubDate>Sun, 21 Jan 2018 08:19:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
